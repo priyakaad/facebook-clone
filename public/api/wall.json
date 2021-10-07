@@ -1,0 +1,47 @@
+[
+    {
+        "UserMeta":
+        {
+            "FullName":"Priya",
+            "Avatar":"https://i.imgur.com/7tLFlzos.jpg",
+            "ProfileURL":"/",
+            "Location": "Thane, Maharashtra, India",
+            "DateTime": "2021-09-24T06:15:00+01:00"
+            
+        },
+    "Text": "Tata Strive Right Skills Bright Future",
+    "Type": "Picture",
+    "Attachment": "https://i.imgur.com/sdj5qyz.jpg"
+  },
+  {
+    "UserMeta":
+    {
+      
+        "FullName":"Priya",
+        "Avatar":"https://i.imgur.com/7tLFlzos.jpg",
+        "ProfileURL":"/",
+        "Location": "Thane, Maharashtra, India",
+        "DateTime": "2021-09-24T07:15:00+01:00"
+    
+    },
+    "Text": "Tata Strive Right Skills Bright Future Free Job Oriented Courses",
+    "Type": "Video",
+    "Attachment": "https://youtu.be/hOt1Fq5I3xM"
+  },
+  {
+    "UserMeta":
+    {
+      
+        "FullName":"Priya",
+        "Avatar":"https://i.imgur.com/7tLFlzos.jpg",
+        "ProfileURL":"/",
+        "Location": "Thane, Maharashtra, India",
+        "DateTime": "2021-09-24T08:15:00+01:00"
+            
+    },
+
+    "Text": "Tata Strive Right Skills Bright Future",
+    "Type": "Text",
+    "Attachment": null
+  }
+]

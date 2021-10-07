@@ -1,0 +1,99 @@
+{
+    "UserMeta":{
+      "FullName":"Priya",
+      "Avatar":"https://i.imgur.com/7tLFlzos.jpg",
+      "ProfileURL":"/"
+    },
+    "Birthdays":[
+      {
+      "FullName":"Trupti",
+      "ProfileURL":"/"
+      },
+      {
+        "FullName":"Purva",
+        "ProfileURL":"/"
+      },
+      {
+          "FullName":"Neha",
+          "ProfileURL":"/"
+      }
+  ],
+    "Pages":[
+      {
+      "Avatar":"https://i.imgur.com/VmKgBZc.png",
+      "PageURL":"/",
+      "Name":"Edusera",
+      "MessageCount":"20+",
+      "NotificationCount":"20+"
+     },
+     {
+      "Avatar":"https://i.imgur.com/7tLFlzos.jpg",
+      "PageURL":"/",
+      "Name":"Priyanka's blog",
+      "MessageCount":"15",
+      "NotificationCount":"15"
+     }
+  ],
+    "NewsFeed":[
+        {
+        "Image":"https://i.imgur.com/kIi6Elv.jpeg",
+        "NewsLink":"/",
+        "Title":"Some Cute Wallpapers",
+        "DateTime":"12th Sunday September 2021",
+        "DatePosted":"today"
+      },
+      {
+
+        "Image": "https://i.imgur.com/Y8R03G1.png",
+        "NewsLink":"/",
+        "Title":"Some Cute Wallpapers",
+        "DateTime":"12th Sunday September 2021",
+        "DatePosted":"yesterday"
+      },
+      {
+
+        "Image": "https://i.imgur.com/eo4s5Aw.jpg",
+        "NewsLink":"/",
+        "Title":"Some Cute Wallpapers",
+        "DateTime":"12th Sunday September 2021",
+        "DatePosted":"2 days ago"
+      }
+    ],
+      "ContentList": {
+        "Default": [{
+        "Link": "/",
+        "Icon": "news",
+        "Text": "News Feed"
+    },
+    {
+      "Link": "/",
+      "Icon": "messenger",
+      "Text": "Messenger"
+  },
+  {
+    "Link": "/",
+    "Icon": "chat",
+    "Text": "Watch"
+  },
+  {
+    "Link": "/",
+    "Icon": "market",
+    "Text": "MarketPlace"
+  }
+  ],
+      "Shortcuts":[
+        {
+          "Link": "/",
+          "Icon": "web",
+          "Text": "Personal Website"
+      }
+      ],
+      "Explore": [
+        {
+          "Link": "/",
+          "Icon": "youtube",
+          "Text": "Youtube Channel"
+      }
+      ]
+      }     
+    }
